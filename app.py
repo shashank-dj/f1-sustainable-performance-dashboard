@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import os
 
 # ========== PATH CONFIGURATION ==========
-BASE_PATH = "/content/drive/MyDrive/formula-1-dataset-race-data-and-telemetry/Directories/LapData"
+BASE_PATH = "formula-1-dataset-race-data-and-telemetry/Directories/LapData"
 
 # ========== LOAD AVAILABLE RACES ==========
 def list_races():
